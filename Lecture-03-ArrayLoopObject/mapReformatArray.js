@@ -8,4 +8,3 @@ const reformattdArray = kvArray.map(({ key, value}) => ({ [key]: value}));
 
 console.log(reformattdArray);
 console.log(kvArray);
-
