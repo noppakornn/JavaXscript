@@ -1,4 +1,3 @@
-
 const status = 200;
 
 if (status === 200) {
